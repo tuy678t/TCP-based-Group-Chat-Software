@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>QML/main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>QML/ConversationPage.qml</file>
+        <file>QML/ContactPage.qml</file>
+        <file>QML/LoginPage.qml</file>
+        <file>QML/ChangePwdPage.qml</file>
+    </qresource>
+</RCC>
